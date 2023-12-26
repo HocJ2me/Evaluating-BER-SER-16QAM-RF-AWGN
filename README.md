@@ -5,10 +5,8 @@ Mô phỏng hệ thống OFDM sử dụng bộ lọc Zero forcing trên kênh tr
 Tất cả các code của đề tài nằm ở thư mục Matlab
 
 # Hình ảnh kết quả
-**Bit error probability curve for 16-QAM modulation**   
-![SER](Picture/BER.png)  
-**Symbol error probability curve for 16-QAM modulation**    
-![BER](Picture/SER.png)  
+**OFDM Simulation with Rayleigh Channel and Zero Forcing Equalization (16QAM)**   
+![BER-SER](Picture/ber-ser.png)  
 
 # Công việc còn lại 
 - [ ] Tìm hiểu các công thức ở trong các file code 
@@ -18,3 +16,4 @@ Tất cả các code của đề tài nằm ở thư mục Matlab
 # References
 - https://dsplog.com/2012/01/01/symbol-error-rate-16qam-64qam-256qam/
 - https://dsplog.com/2008/06/05/16qam-bit-error-gray-mapping/
+- https://github.com/Albertzhangfine/BER-Computing
